@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Robotic Arm Simulation in ROS
 
 ## About
@@ -80,3 +81,11 @@ Open a new tab in terminal.
 3. Now type, `roslaunch robot_arm bot.launch`, to launch gazebo.
 
 Open another tab in terminal. Repeat steps 1 and 2 from above paragraph. Now run, `rosrun robot_arm write_pos.py`, to perform actions on the arm.
+=======
+# Robot
+Robot_arm-ROS
+
+
+https://private-user-images.githubusercontent.com/112027310/437704384-8e74d2ed-942c-4d0c-82ed-39dd33e5459d.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU2Njc1MTQsIm5iZiI6MTc0NTY2NzIxNCwicGF0aCI6Ii8xMTIwMjczMTAvNDM3NzA0Mzg0LThlNzRkMmVkLTk0MmMtNGQwYy04MmVkLTM5ZGQzM2U1NDU5ZC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyNlQxMTMzMzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zODUzNjdhOWNkOTM2ZmRlMzcxNDdlYzdiYmFmYjA5ZGIzOTVhYWIzYmMzZTk4ZWM2YTc2MDlmYWQ5MmE3NGNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Njo5pSf8NvrG6VrZZGuwj-6ERhSLTKf73TDsQB2bFqk
+
+>>>>>>> 2d5e5731cbb4fa08c7a216e761a5edfca8bc20b7
